@@ -25,4 +25,5 @@
 @kali#1
 
 service mysql start
+
 service apache2 start
