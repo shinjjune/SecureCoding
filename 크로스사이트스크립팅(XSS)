@@ -79,7 +79,7 @@ ORIGIN : 스킴+호스트(도메인IP)+포트
 
   chagePwForm.jsp									changePwProc.jsp
 
-  									#1 인증(로그인) 여부를 판단
+      PW :								#1 인증(로그인) 여부를 판단
 
   New PW :   							 	#2 변경에 필요한 정보(newPW) 가 포함되었는지 확인
 
