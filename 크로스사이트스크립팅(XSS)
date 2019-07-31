@@ -75,18 +75,17 @@ ORIGIN : 스킴+호스트(도메인IP)+포트
 
 
 
-- 패스워드 변경 신청 폼-------->패스워드 변경 처리
+- 패스워드 변경 신청 폼				-------->			패스워드 변경 처리
 
-changePwProc.jsp
+  chagePwForm.jsp									changePwProc.jsp
 
-#1 인증(로그인) 여부를 판단
+  									#1 인증(로그인) 여부를 판단
 
-#2 변경에 필요한 정보(newPW) 가 포함되었는지 확인
+  New PW :   							 	#2 변경에 필요한 정보(newPW) 가 포함되었는지 확인
 
-#3 세션에서 사용자 정보를 추출(userId)
-
-#4 update userId.Pw <- newPw
-
+  New PW:								#3 세션에서 사용자 정보를 추출(userId)
+		[ 변경]							
+									#4 update userId.Pw <- newPw
 
 
 로그인한 사람만 볼수 있음 : <iframe src="changePwProc.jsp?newPW=123" width="0" height="0">
