@@ -74,4 +74,6 @@ SQL, OS, XXE, LDAP 인젝션 취약점은 인터프리터에게 신뢰할 수 �
 OWASP Top 10은 웹 애플리케이션 보안을 위한 강력한 인식 문서입니다. 이는 웹 애플리케이션 보안 위험에 대해 폭 넓은 공감대를 형성시킬 수 있습니다. 이 목록을 작성하기 위해서는 전문 기술을 공유한 전세계의 다양한 보안 전문가들이 의견을 나눕니다. 그렇기 때문에 모든 회사가 조직 내에서 웹 애플리케이션 위험을 최소화할 수 있도록 OWASP Top 10을 참고하는 것이 좋습니다.
 
 
+##### 보안 개념을 좀 더 익혀보자
+
 https://m.blog.naver.com/PostView.nhn?blogId=pentamkt&logNo=221130373787&proxyReferer=https%3A%2F%2Fwww.google.com%2F
